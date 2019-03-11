@@ -1,0 +1,1 @@
+{"version":3,"file":"static/webpack/static/development/pages/about.js.98133dfd93d6ff514399.hot-update.js","sources":["webpack:///./pages/about.js"],"sourcesContent":["const Index = () => <div>About BitzPrices</div>;\n\nexport default Index;\n"],"mappings":";;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AACA;AACA;;;;A","sourceRoot":""}
